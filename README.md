@@ -7,7 +7,7 @@ Graduated from Le Wagon web development bootcamp in 2024, I would love to contri
 
 In 2021, I co-founded the collective Slow lab in which we design experiences and low-tech artefacts to create new imaginaries and question our dependency to technology.
 
-🧰 toolbox
+🧰 **toolbox**  
 Ruby, Ruby on Rails, HTML, CSS, Bootstrap, Javascript, p5.js (creative coding), Heroku, Git, Github, SQL, PostgreSQL, Jekyll
 
 Figma, Inkscape, Fusion 360
