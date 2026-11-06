@@ -6,6 +6,6 @@ I am a maker & full stack developer with a background in design, social innovati
 🧰 **toolbox**    
 Ruby, Ruby on Rails, HTML, CSS, Bootstrap, Javascript, p5.js (creative coding), Heroku, Git, Github, SQL, PostgreSQL, Jekyll
 
-📫 Feel free to reach me at belliotaudrey@gmail.com
+📫 Feel free to reach me at audrey@leonstudio.app
 
 
